@@ -1,9 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tferr&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="tferr's Github Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tferr&hide=html,css&langs_count=10&layout=compact" alt="Top Languages" />
-</a>
-<!--
-**tferr/tferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **tferr/tferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tferr&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=tferr&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tferr&layout=compact&hide_title=true&langs_count=12&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=tferr&layout=compact&hide_title=true&langs_count=12&theme=catppuccin_latte)
